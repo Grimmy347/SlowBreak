@@ -5,7 +5,7 @@ public class SlowBreak extends JavaPlugin {
     // Fired when plugin is first enabled
     @Override
     public void onEnable() {
-    	Field field=net.minecraft.server.Block.class.getDeclaredField("strength");
+    	Field field=net.minecraft.server.Block.class.getDeclaredField("strength");2
     	field.setAccessible(true);
     	field.setFloat(net.minecraft.server.Block.BED, 50.0F);
     }
