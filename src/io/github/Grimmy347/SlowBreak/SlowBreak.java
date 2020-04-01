@@ -1,4 +1,4 @@
-package com.meeku.slowbreakPlugin;
+package io.github.Grimmy347.SlowBreak;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class SlowBreak extends JavaPlugin {

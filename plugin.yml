@@ -1,5 +1,5 @@
 name: SlowBreak
-main: com.meeku.slowbreakPlugin.SlowBreak
+main: io.github.SlowBreak.SlowBreak
 version: 0.1
 api-version: 1.13
 commands:
